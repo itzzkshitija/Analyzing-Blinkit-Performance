@@ -13,7 +13,7 @@
 <img src="https://github.com/user-attachments/assets/720e9d06-cece-4eb0-9ff7-a6ae1746195e" width="900" height="500">
 
 # Problem Statement 📌
-Blinkit, as a dynamic on-demand grocery delivery service, grapples with the challenge of managing a vast array of transactions across diverse locations. The existing reporting system fails to provide a unified view of critical sales metrics, hindering effective decision-making. This leads to difficulty tracking operational efficiency, optimizing product offerings, and enhancing customer satisfaction.
+Blinkit, a leading on-demand grocery delivery service, faces the unique challenge of managing high transaction volumes across numerous locations. The current reporting structure lacks a consolidated view of essential sales metrics, impacting decision-making and complicating efforts to track operational efficiency, optimize product offerings, and boost customer satisfaction. This project tackles these challenges head-on by conducting an in-depth analysis of Blinkit's sales performance, customer satisfaction metrics, and inventory distribution. Leveraging advanced KPIs and visualizations in Power BI, the goal is to deliver actionable insights and pinpoint opportunities for optimization, ultimately enhancing Blinkit’s operational excellence and driving customer loyalty.
 
 # DAX Formulas
 <b>1. Average Sales ➥ </b>
