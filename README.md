@@ -1,5 +1,9 @@
 # Blinkit Analysis Dashboard 📊
 
+[Click here to view PowerBI dashboard](https://github.com/itzzkshitija/Blinkit-Analysis-Dashboard/blob/main/Blinkit_Dashboard.pbix)
+
+[Click here to download the dataset](https://github.com/itzzkshitija/Blinkit-Analysis-Dashboard/blob/main/dataset.xlsx)
+
 <img src="https://github.com/user-attachments/assets/720e9d06-cece-4eb0-9ff7-a6ae1746195e" width="900" height="500">
 
 # Problem Statement 📌
