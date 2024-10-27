@@ -58,4 +58,33 @@ Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, A
 Chart Type: Donut Chart
 
 <b>2. Total Sales by Item Type</b> 
+<b>Objective:</b> Identify the performance of different item types in terms of total sales.
+Additional KPI Metrics: Access how other KPIs (Average Sales, Number of Items, Average rating) vary with fat content. 
 
+Chart Type: Bar Chart
+
+<b>3. Fat Content by Outlet for Total Sales </b> 
+<b>Objective:</b> Compare total sales across different outlets segmented by fat content. 
+Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average rating) vary with fat content. 
+
+Chart Type: Stacked Column Chart
+
+<b>4. Total Sales by Outlet Establishment</b> 
+<b>Objective:</b> Evaluate how the age or type of outlet establishment influences total sales.
+
+Chart Type: Line Chart
+
+<b>5. Sales by outlet size</b> 
+<b>Objective:</b> Analyze the correlation between outlet size and total sales
+
+Chart Type: Donut Chart / Pie Chart
+
+<b>6. Sales by Outlet Location</b> 
+<b>Objective:</b> Assess the geographic distribution of sales across different locations. 
+
+Chart Type: Funnel Map
+
+<b>7. All Metrics by Outlet Type</b> 
+<b>Objective:</b> Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average rating) broken down by different outlet types
+
+Chart Type: Matrix Card
