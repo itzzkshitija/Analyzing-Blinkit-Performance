@@ -15,75 +15,28 @@
 # Problem Statement 📌
 Blinkit, as a dynamic on-demand grocery delivery service, grapples with the challenge of managing a vast array of transactions across diverse locations. The existing reporting system fails to provide a unified view of critical sales metrics, hindering effective decision-making. This leads to difficulty tracking operational efficiency, optimizing product offerings, and enhancing customer satisfaction.
 
-# 📍 1. Requirements Gathering / Business Requirements 
-
-## KPI's Requirements
-<b>1. Total Sales: </b> The overall revenue generated from all items sold
-
-<b>2. Average Sales: </b> The average revenue per sale
-
-<b>3. Number of Items: </b> The total count of different items sold
-
-<b>4. Average Rating: </b> The average customer rating for items sold
-
-## Chart's Requirements
-<b>1. Total Sales by Fat Content</b>
-
-<b>Objective:</b> Analyze the impact of fat content on total sales.
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-
-Chart Type: Donut Chart
-
-<b>2. Total Sales by Item Type</b> 
-<b>Objective:</b> Identify the performance of different item types in terms of total sales.
-Additional KPI Metrics: Access how other KPIs (Average Sales, Number of Items, Average rating) vary with fat content. 
-
-Chart Type: Bar Chart
-
-<b>3. Fat Content by Outlet for Total Sales </b> 
-<b>Objective:</b> Compare total sales across different outlets segmented by fat content. 
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average rating) vary with fat content. 
-
-Chart Type: Stacked Column Chart
-
-<b>4. Total Sales by Outlet Establishment</b> 
-<b>Objective:</b> Evaluate how the age or type of outlet establishment influences total sales.
-
-Chart Type: Line Chart
-
-<b>5. Sales by outlet size</b> 
-<b>Objective:</b> Analyze the correlation between outlet size and total sales
-
-Chart Type: Donut Chart / Pie Chart
-
-<b>6. Sales by Outlet Location</b> 
-<b>Objective:</b> Assess the geographic distribution of sales across different locations. 
-
-Chart Type: Funnel Map
-
-<b>7. All Metrics by Outlet Type</b> 
-<b>Objective:</b> Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average rating) broken down by different outlet types
-
-Chart Type: Matrix Card
-
-# 📍 2. DAX Formulas
-<b>1. Average Sales </b>
+# DAX Formulas
+<b>1. Average Sales ➥ </b>
+The average revenue per sale
 
 `Average Sales = AVERAGE('BlinkIT Grocery Data'[Total Sales])`
 
-<b>2. Average Rating </b>
+<b>2. Average Rating ➥ </b>
+The average customer rating for items sold
 
 `Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])`
 
-<b>3. Total Sum of Sales </b>
+<b>3. Total Sales ➥ </b>
+The overall revenue generated from all items sold
 
 `Total Sum Sales = SUM('BlinkIT Grocery Data'[Total Sales])`
 
-<b>4. Number of Items </b>
+<b>4. Number of Items ➥ </b>
+The total count of different items sold
 
 `No of Items = COUNTROWS('BlinkIT Grocery Data')`
 
-# 📍 3. Insights 
+# Insights 
 <b>1. Sales Performance: </b>
 <ul><li>Total Sales amount to $1.20M, with an Average Sale per transaction of $141.</li></ul>
 
