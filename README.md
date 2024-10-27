@@ -68,7 +68,7 @@ The total count of different items sold
 <ul><li>Tier 3 outlets have the highest sales for both low-fat and Regular products, reinforcing their impact across product categories.</li></ul>
 
 
-# Chart Wise Insights
+# Chart Wise Insights and Improvements
 
 ### 1️⃣ Fat Content Chart
 ![image](https://github.com/user-attachments/assets/39258c3e-aa21-42d1-a985-fe52d1d52098)
