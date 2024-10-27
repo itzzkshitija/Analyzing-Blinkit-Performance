@@ -9,7 +9,7 @@
 # Problem Statement 📌
 Blinkit, as a dynamic on-demand grocery delivery service, grapples with the challenge of managing a vast array of transactions across diverse locations. The existing reporting system fails to provide a unified view of critical sales metrics, hindering effective decision-making. This leads to difficulty tracking operational efficiency, optimizing product offerings, and enhancing customer satisfaction.
 
-# Solution: A Comprehensive PowerBI Dashboard
+# Solution: A Comprehensive PowerBI Dashboard ✅
 To address these challenges, a robust PowerBI dashboard has been developed to consolidate real-time sales data. 
 This data-driven solution offers valuable insights into:
 
@@ -20,27 +20,27 @@ This data-driven solution offers valuable insights into:
 <b>3. Delivery Performance: </b> Monitor delivery times, success rates, and potential bottlenecks to streamline operations.
 
 # Steps in Project 👇
-✅ Requirement Gathering / Business Requirements
+`Requirement Gathering / Business Requirements →` 
 
-✅ Data Walkthrough
+`Data Walkthrough  →` 
 
-✅ Data Connection
+`Data Connection  →` 
 
-✅ Data Cleaning / Quality Check
+`Data Cleaning / Quality Check  →` 
 
-✅ Data Modeling 
+`Data Modeling  →` 
 
-✅ Data Processing
+`Data Processing →` 
 
-✅ DAX Calculations
+`DAX Calculations  →` 
 
-✅ Dashboard Lay outing
+`Dashboard Lay outing  →` 
 
-✅ Charts Development and Formatting
+`Charts Development and Formatting  →`  
 
-✅ Dashboard / Report Development
+`Dashboard / Report Development  →` 
 
-✅ Insights Generation
+`Insights Generation →`
 
 ## 1. Requirements Gathering / Business Requirements 
 
@@ -92,3 +92,53 @@ Chart Type: Funnel Map
 <b>Objective:</b> Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average rating) broken down by different outlet types
 
 Chart Type: Matrix Card
+
+## 2. DAX Formulas
+<b>1. Average Sales </b>
+
+`Average Sales = AVERAGE('BlinkIT Grocery Data'[Total Sales])`
+
+<b>2. Average Rating </b>
+
+`Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])`
+
+<b>3. Total Sum of Sales </b>
+
+`Total Sum Sales = SUM('BlinkIT Grocery Data'[Total Sales])`
+
+<b>4. Number of Items </b>
+
+`No of Items = COUNTROWS('BlinkIT Grocery Data')`
+
+## 3. Insights 
+<b>1. Sales Performance: </b>
+<ul><li>Total Sales amount to $1.20M, with an Average Sale per transaction of $141.</li></ul>
+
+<ul><li>Number of Items Sold is 8,523, indicating a broad inventory turnover.</li></ul>
+
+<b>2. Customer Satisfaction: </b>
+<ul><li>The Average Rating stands at 3.9, suggesting a satisfactory customer experience with potential for improvement.
+</li></ul>
+
+<b>3. Outlet Analysis: </b>
+<ul><li>Outlet Establishment Trends show a consistent growth in sales, reaching $205K in recent years.</li></ul>
+
+<ul><li>Medium-sized outlets contribute 42.27% to sales, totaling $444.79K.</li></ul>
+
+<ul><li>Small outlets contribute 37.01% ($248.99K), while high-capacity outlets add 20.72% ($507.90K).</li></ul>
+
+<ul><li>Tier 3 locations generate 71.3% of sales ($472.13K), followed by Tier 2 ($393.15K) and Tier 1 ($336.40K), emphasizing the strength in emerging markets.</li></ul>
+
+<ul><li>Supermarkets lead with $788K in sales, followed by Grocery Stores at $152K.</li></ul>
+
+<b>4. Product Analysis: </b> 
+<ul><li>Fruits and Snack Foods are top sellers, each generating around $180K.</li></ul>
+
+<ul><li>Household and Frozen Food items also perform well with $140K and $120K respectively.</li></ul>
+
+<ul><li>Low-Fat Products contribute $776.32K, while regular fat products account for $ 425.36 K.</li></ul>
+
+<b>5.Fat Content by Outlet Location:</b>
+<ul><li>Tier 3 outlets have the highest sales for both Low Fat and Regular fat products, reinforcing their impact across product categories.</li></ul>
+
+
