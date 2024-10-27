@@ -42,7 +42,7 @@ This data-driven solution offers valuable insights into:
 
 `Insights Generation →`
 
-## 1. Requirements Gathering / Business Requirements 
+## 📍 1. Requirements Gathering / Business Requirements 
 
 ### KPI's Requirements
 <b>1. Total Sales: </b> The overall revenue generated from all items sold
@@ -93,7 +93,7 @@ Chart Type: Funnel Map
 
 Chart Type: Matrix Card
 
-## 2. DAX Formulas
+## 📍 2. DAX Formulas
 <b>1. Average Sales </b>
 
 `Average Sales = AVERAGE('BlinkIT Grocery Data'[Total Sales])`
@@ -110,7 +110,7 @@ Chart Type: Matrix Card
 
 `No of Items = COUNTROWS('BlinkIT Grocery Data')`
 
-## 3. Insights 
+## 📍 3. Insights 
 <b>1. Sales Performance: </b>
 <ul><li>Total Sales amount to $1.20M, with an Average Sale per transaction of $141.</li></ul>
 
@@ -136,9 +136,14 @@ Chart Type: Matrix Card
 
 <ul><li>Household and Frozen Food items also perform well with $140K and $120K respectively.</li></ul>
 
-<ul><li>Low-Fat Products contribute $776.32K, while regular fat products account for $ 425.36 K.</li></ul>
+<ul><li> Low-fat products contribute $776.32K, while regular fat products account for $ 425.36 K.</li></ul>
 
 <b>5.Fat Content by Outlet Location:</b>
-<ul><li>Tier 3 outlets have the highest sales for both Low Fat and Regular fat products, reinforcing their impact across product categories.</li></ul>
+<ul><li>Tier 3 outlets have the highest sales for both low-fat and Regular fat products, reinforcing their impact across product categories.</li></ul>
 
-
+# LinkedIn Profile 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kshitija-chilbule-b98515309/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
