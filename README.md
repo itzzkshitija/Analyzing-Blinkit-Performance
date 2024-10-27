@@ -1,3 +1,9 @@
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kshitija-chilbule-b98515309/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 # Blinkit Analysis Dashboard 📊
 
 [Click here to view PowerBI dashboard](https://github.com/itzzkshitija/Blinkit-Analysis-Dashboard/blob/main/Blinkit_Dashboard.pbix)
@@ -9,42 +15,9 @@
 # Problem Statement 📌
 Blinkit, as a dynamic on-demand grocery delivery service, grapples with the challenge of managing a vast array of transactions across diverse locations. The existing reporting system fails to provide a unified view of critical sales metrics, hindering effective decision-making. This leads to difficulty tracking operational efficiency, optimizing product offerings, and enhancing customer satisfaction.
 
-# Solution: A Comprehensive PowerBI Dashboard ✅
-To address these challenges, a robust PowerBI dashboard has been developed to consolidate real-time sales data. 
-This data-driven solution offers valuable insights into:
+# 📍 1. Requirements Gathering / Business Requirements 
 
-<b>1. Order Volumes and Revenue Trends: </b> Gain a clear understanding of sales performance over time.
-
-<b>2. Popular Products and Regional Demand: </b> Identify top-performing products and regional preferences to optimize inventory and marketing strategies.
-
-<b>3. Delivery Performance: </b> Monitor delivery times, success rates, and potential bottlenecks to streamline operations.
-
-# Steps in Project 👇
-`Requirement Gathering / Business Requirements →` 
-
-`Data Walkthrough  →` 
-
-`Data Connection  →` 
-
-`Data Cleaning / Quality Check  →` 
-
-`Data Modeling  →` 
-
-`Data Processing →` 
-
-`DAX Calculations  →` 
-
-`Dashboard Lay outing  →` 
-
-`Charts Development and Formatting  →`  
-
-`Dashboard / Report Development  →` 
-
-`Insights Generation →`
-
-## 📍 1. Requirements Gathering / Business Requirements 
-
-### KPI's Requirements
+## KPI's Requirements
 <b>1. Total Sales: </b> The overall revenue generated from all items sold
 
 <b>2. Average Sales: </b> The average revenue per sale
@@ -53,7 +26,7 @@ This data-driven solution offers valuable insights into:
 
 <b>4. Average Rating: </b> The average customer rating for items sold
 
-### Chart's Requirements
+## Chart's Requirements
 <b>1. Total Sales by Fat Content</b>
 
 <b>Objective:</b> Analyze the impact of fat content on total sales.
@@ -93,7 +66,7 @@ Chart Type: Funnel Map
 
 Chart Type: Matrix Card
 
-## 📍 2. DAX Formulas
+# 📍 2. DAX Formulas
 <b>1. Average Sales </b>
 
 `Average Sales = AVERAGE('BlinkIT Grocery Data'[Total Sales])`
@@ -110,7 +83,7 @@ Chart Type: Matrix Card
 
 `No of Items = COUNTROWS('BlinkIT Grocery Data')`
 
-## 📍 3. Insights 
+# 📍 3. Insights 
 <b>1. Sales Performance: </b>
 <ul><li>Total Sales amount to $1.20M, with an Average Sale per transaction of $141.</li></ul>
 
@@ -140,10 +113,3 @@ Chart Type: Matrix Card
 
 <b>5.Fat Content by Outlet Location:</b>
 <ul><li>Tier 3 outlets have the highest sales for both low-fat and Regular fat products, reinforcing their impact across product categories.</li></ul>
-
-# LinkedIn Profile 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kshitija-chilbule-b98515309/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
