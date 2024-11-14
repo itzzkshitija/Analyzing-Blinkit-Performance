@@ -22,7 +22,7 @@
 
 [Click here to download the dataset](https://github.com/itzzkshitija/Blinkit-Analysis-Dashboard/blob/main/dataset.xlsx)
 
-## Problem Statement 📌
+## Problem Statement 
 Blinkit, a leading on-demand grocery delivery service, faces the unique challenge of managing high transaction volumes across numerous locations. The current reporting structure lacks a consolidated view of essential sales metrics, impacting decision-making and complicating efforts to track operational efficiency, optimize product offerings, and boost customer satisfaction. This project tackles these challenges head-on by conducting an in-depth analysis of Blinkit's sales performance, customer satisfaction metrics, and inventory distribution. Leveraging advanced KPIs and visualizations in Power BI, the goal is to deliver actionable insights and pinpoint opportunities for optimization, ultimately enhancing Blinkit’s operational excellence and driving customer loyalty.
 
 ## DAX Formulas
