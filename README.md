@@ -6,16 +6,26 @@
 
 # Blinkit Analysis Dashboard 📊
 
+## Table of Contents
+
+[Probem Statement](#problem-statement)
+<br>
+[Dax Formulas](#dax-formulas)
+<br>
+[Overall Insights](#overall-insights)
+<br>
+[ Chart Wise Insights and Improvements](#chart-wise-insights-and-improvements)
+<br>
+<img src="https://github.com/user-attachments/assets/720e9d06-cece-4eb0-9ff7-a6ae1746195e" width="900" height="500">
+
 [Click here to view PowerBI dashboard](https://github.com/itzzkshitija/Blinkit-Analysis-Dashboard/blob/main/Blinkit_Dashboard.pbix)
 
 [Click here to download the dataset](https://github.com/itzzkshitija/Blinkit-Analysis-Dashboard/blob/main/dataset.xlsx)
 
-<img src="https://github.com/user-attachments/assets/720e9d06-cece-4eb0-9ff7-a6ae1746195e" width="900" height="500">
-
-# Problem Statement 📌
+## Problem Statement 📌
 Blinkit, a leading on-demand grocery delivery service, faces the unique challenge of managing high transaction volumes across numerous locations. The current reporting structure lacks a consolidated view of essential sales metrics, impacting decision-making and complicating efforts to track operational efficiency, optimize product offerings, and boost customer satisfaction. This project tackles these challenges head-on by conducting an in-depth analysis of Blinkit's sales performance, customer satisfaction metrics, and inventory distribution. Leveraging advanced KPIs and visualizations in Power BI, the goal is to deliver actionable insights and pinpoint opportunities for optimization, ultimately enhancing Blinkit’s operational excellence and driving customer loyalty.
 
-# DAX Formulas
+## DAX Formulas
 <b>1. Average Sales ➥ </b>
 The average revenue per sale
 
@@ -36,7 +46,7 @@ The total count of different items sold
 
 `No of Items = COUNTROWS('BlinkIT Grocery Data')`
 
-# Overall Insights 
+## Overall Insights 
 <b>1. Sales Performance: </b>
 <ul><li>Total Sales amount to $1.20M, with an Average Sale per transaction of $141.</li></ul>
 
@@ -68,7 +78,7 @@ The total count of different items sold
 <ul><li>Tier 3 outlets have the highest sales for both low-fat and Regular products, reinforcing their impact across product categories.</li></ul>
 
 
-# Chart Wise Insights and Improvements
+## Chart Wise Insights and Improvements
 
 ### 1️⃣ Fat Content Chart
 ![image](https://github.com/user-attachments/assets/39258c3e-aa21-42d1-a985-fe52d1d52098)
