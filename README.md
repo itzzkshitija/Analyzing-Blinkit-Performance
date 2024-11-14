@@ -7,6 +7,7 @@
 # Blinkit Analysis Dashboard 📊
 
 ## Table of Contents
+
 <a href="#problem-statement" style="text-decoration: none;">Problem Statement</a><br>
 <a href="#dax-formulas" style="text-decoration: none;">DAX Formulas</a><br>
 <a href="#overall-insights" style="text-decoration: none;">Overall Insights</a><br>
