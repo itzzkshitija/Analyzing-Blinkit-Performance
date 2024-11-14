@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-[Probem Statement](#problem-statement)
+[Problem Statement](#problem-statement)
 <br>
 [Dax Formulas](#dax-formulas)
 <br>
