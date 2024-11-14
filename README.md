@@ -7,7 +7,6 @@
   </a>
 </div>
 
-
 # Blinkit Analysis Dashboard 📊
 
 ## Table of Contents
