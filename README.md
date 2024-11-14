@@ -8,6 +8,7 @@
 
 ## Table of Contents
 <div style="text-decoration: none;">
+  
 [Problem Statement](#problem-statement)
 <br>
 [Dax Formulas](#dax-formulas)
@@ -16,6 +17,7 @@
 <br>
 [ Chart Wise Insights and Improvements](#chart-wise-insights-and-improvements)
 <br>
+
 </div>
 
 <img src="https://github.com/user-attachments/assets/720e9d06-cece-4eb0-9ff7-a6ae1746195e" width="900" height="500">
