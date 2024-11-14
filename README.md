@@ -7,18 +7,11 @@
 # Blinkit Analysis Dashboard 📊
 
 ## Table of Contents
-<div style="text-decoration: none;">
-  
-[Problem Statement](#problem-statement)
-<br>
-[Dax Formulas](#dax-formulas)
-<br>
-[Overall Insights](#overall-insights)
-<br>
-[ Chart Wise Insights and Improvements](#chart-wise-insights-and-improvements)
-<br>
+<a href="#problem-statement" style="text-decoration: none;">Problem Statement</a><br>
+<a href="#dax-formulas" style="text-decoration: none;">DAX Formulas</a><br>
+<a href="#overall-insights" style="text-decoration: none;">Overall Insights</a><br>
+<a href="#chart-wise-insights-and-improvements" style="text-decoration: none;">Chart Wise Insights and Improvements</a><br>
 
-</div>
 
 <img src="https://github.com/user-attachments/assets/720e9d06-cece-4eb0-9ff7-a6ae1746195e" width="900" height="500">
 
