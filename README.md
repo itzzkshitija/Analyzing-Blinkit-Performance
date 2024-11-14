@@ -14,7 +14,7 @@
 
 <a href="#problem-statement" style="text-decoration: none;">Problem Statement</a><br>
 <a href="#dax-formulas" style="text-decoration: none;">DAX Formulas</a><br>
-<a href="#overall-insights" style="text-decoration: none;">Overall Insights</a><br>
+<a href="#summary-of-insights" style="text-decoration: none;">Summary of Insights</a><br>
 <a href="#chart-wise-insights-and-improvements" style="text-decoration: none;">Chart Wise Insights and Improvements</a><br>
 
 
@@ -48,7 +48,7 @@ The total count of different items sold
 
 `No of Items = COUNTROWS('BlinkIT Grocery Data')`
 
-## Overall Insights 
+## Summary of Insights 
 <b>1. Sales Performance: </b>
 <ul><li>Total Sales amount to $1.20M, with an Average Sale per transaction of $141.</li></ul>
 
